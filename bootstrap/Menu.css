@@ -1,0 +1,12 @@
+.background2{
+    background-image: url("m1.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+    color: white;
+    position: relative;
+}

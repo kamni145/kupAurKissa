@@ -1,0 +1,62 @@
+.contactus {
+    background-color: rgb(251, 201, 183);
+    
+    text-align: center;
+    padding: 20px 0; /* Added padding for top and bottom */
+}
+
+.cform {
+    width: 350px;
+    height: 300px;
+    background-color: rgb(141, 196, 245);
+    display: inline-block;
+    margin: 20px; /* Reduced margin */
+    border-radius: 20px;
+    text-align: center;
+    vertical-align: top; /* Aligning the elements to the top */
+}
+
+.location {
+    width: 350px;
+    height: 200px;
+    display: inline-block;
+    margin: 10px; /* Reduced margin */
+    border-radius: 5px;
+    background-color: rgb(4, 55, 17);
+    padding: 5px; /* Adjusted padding */
+    padding-left: 20px;
+    vertical-align: top; /* Aligning the elements to the top */
+}
+
+.location2 {
+    width: 350px;
+    height: 200px;
+    display: inline-block;
+    margin: 10px; /* Reduced margin */
+    border-radius: 20px;
+    background-color: rgb(4, 55, 17);
+    padding-left: 5px;
+    vertical-align: top; /* Aligning the elements to the top */
+}
+
+.touch {
+    display: block;
+    background-color: beige;
+    justify-content: center;
+    text-align: center;
+    padding: 10px 0; /* Added padding for top and bottom */
+}
+.background3{
+    background-image: url("c11.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+    color: white;
+    position: relative;
+}
+
+
